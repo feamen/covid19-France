@@ -11,6 +11,2228 @@
         ]
       },
       "properties": {
+        "date": "2020-04-08",
+        "code": "01",
+        "name": "Ain",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 124,
+        "total_deaths": 31,
+        "new_deaths": 4,
+        "new_cases": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.61998,
+          49.56448
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "02",
+        "name": "Aisne",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 260,
+        "total_deaths": 119,
+        "new_deaths": 4,
+        "new_cases": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.33286,
+          46.56612
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "03",
+        "name": "Allier",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 53,
+        "total_deaths": 10,
+        "new_deaths": 2,
+        "new_cases": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23635,
+          44.09352
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "04",
+        "name": "Alpes-de-Haute-Provence",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 30,
+        "total_deaths": 4,
+        "new_deaths": 0,
+        "new_cases": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.08286,
+          44.56158
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "05",
+        "name": "Hautes-Alpes",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 61,
+        "total_deaths": 2,
+        "new_deaths": 0,
+        "new_cases": -3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.27774,
+          43.70025
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "06",
+        "name": "Alpes-Maritimes",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 258,
+        "total_deaths": 56,
+        "new_deaths": 8,
+        "new_cases": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.59783,
+          44.73471
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "07",
+        "name": "Ardèche",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 107,
+        "total_deaths": 35,
+        "new_deaths": 3,
+        "new_cases": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71908,
+          49.76019
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "08",
+        "name": "Ardennes",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 75,
+        "total_deaths": 7,
+        "new_deaths": 1,
+        "new_cases": -5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.60547,
+          42.9637
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "09",
+        "name": "Ariège",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 20,
+        "total_deaths": 1,
+        "new_deaths": 0,
+        "new_cases": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.07428,
+          48.29792
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "10",
+        "name": "Aube",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 153,
+        "total_deaths": 47,
+        "new_deaths": 9,
+        "new_cases": -4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35781,
+          43.21197
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "11",
+        "name": "Aude",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 73,
+        "total_deaths": 34,
+        "new_deaths": 3,
+        "new_cases": -8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.57287,
+          44.34972
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "12",
+        "name": "Aveyron",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 52,
+        "total_deaths": 14,
+        "new_deaths": 1,
+        "new_cases": -3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37132,
+          43.29337
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "13",
+        "name": "Bouches-du-Rhône",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 1107,
+        "total_deaths": 144,
+        "new_deaths": 7,
+        "new_cases": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36118,
+          49.18433
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "14",
+        "name": "Calvados",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 156,
+        "total_deaths": 29,
+        "new_deaths": 3,
+        "new_cases": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4449,
+          44.92791
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "15",
+        "name": "Cantal",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 26,
+        "total_deaths": 0,
+        "new_deaths": 0,
+        "new_cases": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.157,
+          45.64924
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "16",
+        "name": "Charente",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 11,
+        "total_deaths": 8,
+        "new_deaths": 1,
+        "new_cases": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.15164,
+          46.15943
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "17",
+        "name": "Charente-Maritime",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 91,
+        "total_deaths": 21,
+        "new_deaths": 2,
+        "new_cases": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39312,
+          47.08603
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "18",
+        "name": "Cher",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 51,
+        "total_deaths": 26,
+        "new_deaths": 2,
+        "new_cases": -3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.75654,
+          45.25914
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "19",
+        "name": "Corrèze",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 43,
+        "total_deaths": 11,
+        "new_deaths": 0,
+        "new_cases": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.04299,
+          47.32698
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "21",
+        "name": "Côte-d'Or",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 310,
+        "total_deaths": 94,
+        "new_deaths": 11,
+        "new_cases": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7639,
+          48.51572
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "22",
+        "name": "Côtes d'Armor",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 66,
+        "total_deaths": 14,
+        "new_deaths": 1,
+        "new_cases": -3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.87003,
+          46.1705
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "23",
+        "name": "Creuse",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 28,
+        "total_deaths": 4,
+        "new_deaths": 1,
+        "new_cases": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7232,
+          45.18407
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "24",
+        "name": "Dordogne",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 23,
+        "total_deaths": 1,
+        "new_deaths": 0,
+        "new_cases": -3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0254,
+          47.24276
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "25",
+        "name": "Doubs",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 199,
+        "total_deaths": 59,
+        "new_deaths": 1,
+        "new_cases": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88924,
+          44.93045
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "26",
+        "name": "Drôme",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 247,
+        "total_deaths": 69,
+        "new_deaths": 5,
+        "new_cases": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.15037,
+          49.02767
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "27",
+        "name": "Eure",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 50,
+        "total_deaths": 28,
+        "new_deaths": 6,
+        "new_cases": -16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.48341,
+          48.44452
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "28",
+        "name": "Eure-et-Loir",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 177,
+        "total_deaths": 36,
+        "new_deaths": 5,
+        "new_cases": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.10791,
+          47.9947
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "29",
+        "name": "Finistère",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 102,
+        "total_deaths": 11,
+        "new_deaths": 2,
+        "new_cases": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.73444,
+          41.91719
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "2A",
+        "name": "Corse-du-Sud",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 81,
+        "total_deaths": 29,
+        "new_deaths": 0,
+        "new_cases": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.44988,
+          42.6999
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "2B",
+        "name": "Haute-Corse",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 9,
+        "total_deaths": 3,
+        "new_deaths": 0,
+        "new_cases": -6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35855,
+          43.83512
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "30",
+        "name": "Gard",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 104,
+        "total_deaths": 21,
+        "new_deaths": 4,
+        "new_cases": -6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.44863,
+          43.60579
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "31",
+        "name": "Haute-Garonne",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 229,
+        "total_deaths": 21,
+        "new_deaths": 2,
+        "new_cases": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5846,
+          43.64733
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "32",
+        "name": "Gers",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 29,
+        "total_deaths": 8,
+        "new_deaths": 0,
+        "new_cases": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.58107,
+          44.8367
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "33",
+        "name": "Gironde",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 290,
+        "total_deaths": 58,
+        "new_deaths": 8,
+        "new_cases": -25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.87612,
+          43.61086
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "34",
+        "name": "Hérault",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 240,
+        "total_deaths": 60,
+        "new_deaths": 3,
+        "new_cases": -14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.68449,
+          48.10804
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "35",
+        "name": "Ille-et-Vilaine",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 162,
+        "total_deaths": 27,
+        "new_deaths": 4,
+        "new_cases": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.69646,
+          46.81251
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "36",
+        "name": "Indre",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 63,
+        "total_deaths": 25,
+        "new_deaths": 2,
+        "new_cases": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.68957,
+          47.38846
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "37",
+        "name": "Indre-et-Loire",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 192,
+        "total_deaths": 23,
+        "new_deaths": 2,
+        "new_cases": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.73201,
+          45.194
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "38",
+        "name": "Isère",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 228,
+        "total_deaths": 35,
+        "new_deaths": 5,
+        "new_cases": -20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.55179,
+          46.67403
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "39",
+        "name": "Jura",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 100,
+        "total_deaths": 19,
+        "new_deaths": 1,
+        "new_cases": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49894,
+          43.88952
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "40",
+        "name": "Landes",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 29,
+        "total_deaths": 6,
+        "new_deaths": 0,
+        "new_cases": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.33187,
+          47.58716
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "41",
+        "name": "Loir-et-Cher",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 91,
+        "total_deaths": 16,
+        "new_deaths": 2,
+        "new_cases": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.39553,
+          45.43988
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "42",
+        "name": "Loire",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 475,
+        "total_deaths": 90,
+        "new_deaths": 2,
+        "new_cases": -3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.88327,
+          45.04199
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "43",
+        "name": "Haute-Loire",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 22,
+        "total_deaths": 4,
+        "new_deaths": 0,
+        "new_cases": -5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.55306,
+          47.21811
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "44",
+        "name": "Loire-Atlantique",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 263,
+        "total_deaths": 54,
+        "new_deaths": 3,
+        "new_cases": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.90498,
+          47.90143
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "45",
+        "name": "Loiret",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 263,
+        "total_deaths": 28,
+        "new_deaths": 1,
+        "new_cases": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.44075,
+          44.44669
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "46",
+        "name": "Lot",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 17,
+        "total_deaths": 1,
+        "new_deaths": 1,
+        "new_cases": -2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.62055,
+          44.20213
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "47",
+        "name": "Lot-et-Garonne",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 29,
+        "total_deaths": 3,
+        "new_deaths": 0,
+        "new_cases": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.49451,
+          44.51806
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "48",
+        "name": "Lozère",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 6,
+        "total_deaths": 0,
+        "new_deaths": 0,
+        "new_cases": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.55325,
+          47.47069
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "49",
+        "name": "Maine-et-Loire",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 182,
+        "total_deaths": 47,
+        "new_deaths": 3,
+        "new_cases": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.09045,
+          49.11596
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "50",
+        "name": "Manche",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 65,
+        "total_deaths": 17,
+        "new_deaths": 0,
+        "new_cases": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3554,
+          48.95583
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "51",
+        "name": "Marne",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 374,
+        "total_deaths": 104,
+        "new_deaths": 16,
+        "new_cases": -17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.136,
+          48.11033
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "52",
+        "name": "Haute-Marne",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 107,
+        "total_deaths": 37,
+        "new_deaths": 2,
+        "new_cases": -8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.77307,
+          48.07268
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "53",
+        "name": "Mayenne",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 74,
+        "total_deaths": 13,
+        "new_deaths": 1,
+        "new_cases": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.18335,
+          48.68954
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "54",
+        "name": "Meurthe-et-Moselle",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 480,
+        "total_deaths": 136,
+        "new_deaths": 10,
+        "new_cases": -16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.16482,
+          48.77099
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "55",
+        "name": "Meuse",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 164,
+        "total_deaths": 39,
+        "new_deaths": 6,
+        "new_cases": -4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.75985,
+          47.65834
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "56",
+        "name": "Morbihan",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 154,
+        "total_deaths": 55,
+        "new_deaths": 3,
+        "new_cases": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.17145,
+          49.1147
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "57",
+        "name": "Moselle",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 1002,
+        "total_deaths": 414,
+        "new_deaths": 25,
+        "new_cases": -18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.15681,
+          46.98886
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "58",
+        "name": "Nièvre",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 36,
+        "total_deaths": 7,
+        "new_deaths": 0,
+        "new_cases": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.06881,
+          50.6282
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "59",
+        "name": "Nord",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 895,
+        "total_deaths": 197,
+        "new_deaths": 15,
+        "new_cases": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0831,
+          49.42964
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "60",
+        "name": "Oise",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 424,
+        "total_deaths": 188,
+        "new_deaths": 10,
+        "new_cases": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.08318,
+          48.43061
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "61",
+        "name": "Orne",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 68,
+        "total_deaths": 12,
+        "new_deaths": 1,
+        "new_cases": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.77954,
+          50.29169
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "62",
+        "name": "Pas-de-Calais",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 434,
+        "total_deaths": 74,
+        "new_deaths": 10,
+        "new_cases": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.07722,
+          45.77668
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "63",
+        "name": "Puy-de-Dôme",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 74,
+        "total_deaths": 14,
+        "new_deaths": 3,
+        "new_cases": -3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37432,
+          43.2965
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "64",
+        "name": "Pyrénées-Atlantiques",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 88,
+        "total_deaths": 14,
+        "new_deaths": -1,
+        "new_cases": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.07319,
+          43.22987
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "65",
+        "name": "Hautes-Pyrénées",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 62,
+        "total_deaths": 7,
+        "new_deaths": 0,
+        "new_cases": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.88747,
+          42.69818
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "66",
+        "name": "Pyrénées-Orientales",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 91,
+        "total_deaths": 19,
+        "new_deaths": 0,
+        "new_cases": -7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.73642,
+          48.58504
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "67",
+        "name": "Bas-Rhin",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 1077,
+        "total_deaths": 318,
+        "new_deaths": 13,
+        "new_cases": -6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.36469,
+          48.08018
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "68",
+        "name": "Haut-Rhin",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 1028,
+        "total_deaths": 548,
+        "new_deaths": 22,
+        "new_cases": -28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82966,
+          45.75919
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "69",
+        "name": "Rhône",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 1150,
+        "total_deaths": 273,
+        "new_deaths": 24,
+        "new_cases": -24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1548,
+          47.61993
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "70",
+        "name": "Haute-Saône",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 87,
+        "total_deaths": 45,
+        "new_deaths": 0,
+        "new_cases": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83305,
+          46.30304
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "71",
+        "name": "Saône-et-Loire",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 191,
+        "total_deaths": 75,
+        "new_deaths": 1,
+        "new_cases": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.19744,
+          48.00832
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "72",
+        "name": "Sarthe",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 116,
+        "total_deaths": 22,
+        "new_deaths": 1,
+        "new_cases": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9209,
+          45.56664
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "73",
+        "name": "Savoie",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 122,
+        "total_deaths": 20,
+        "new_deaths": 1,
+        "new_cases": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1287,
+          45.8991
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "74",
+        "name": "Haute-Savoie",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 280,
+        "total_deaths": 73,
+        "new_deaths": 5,
+        "new_cases": -5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3414,
+          48.85717
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "75",
+        "name": "Paris",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 3154,
+        "total_deaths": 732,
+        "new_deaths": 49,
+        "new_cases": -15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0894,
+          49.44014
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "76",
+        "name": "Seine-Maritime",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 341,
+        "total_deaths": 79,
+        "new_deaths": 8,
+        "new_cases": -21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.66413,
+          48.53958
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "77",
+        "name": "Seine-et-Marne",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 734,
+        "total_deaths": 178,
+        "new_deaths": 17,
+        "new_cases": -6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13108,
+          48.80195
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "78",
+        "name": "Yvelines",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 1040,
+        "total_deaths": 219,
+        "new_deaths": 10,
+        "new_cases": 48
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46338,
+          46.32124
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "79",
+        "name": "Deux-Sèvres",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 33,
+        "total_deaths": 9,
+        "new_deaths": 1,
+        "new_cases": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29326,
+          49.89469
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "80",
+        "name": "Somme",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 353,
+        "total_deaths": 101,
+        "new_deaths": 5,
+        "new_cases": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14838,
+          43.92617
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "81",
+        "name": "Tarn",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 57,
+        "total_deaths": 6,
+        "new_deaths": 1,
+        "new_cases": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.35217,
+          44.01675
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "82",
+        "name": "Tarn-et-Garonne",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 20,
+        "total_deaths": 3,
+        "new_deaths": 0,
+        "new_cases": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.92988,
+          43.12543
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "83",
+        "name": "Var",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 258,
+        "total_deaths": 44,
+        "new_deaths": -2,
+        "new_cases": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80601,
+          43.95344
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "84",
+        "name": "Vaucluse",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 82,
+        "total_deaths": 19,
+        "new_deaths": 3,
+        "new_cases": -4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.42739,
+          46.67199
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "85",
+        "name": "Vendée",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 65,
+        "total_deaths": 17,
+        "new_deaths": 1,
+        "new_cases": -7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.33569,
+          46.58387
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "86",
+        "name": "Vienne",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 60,
+        "total_deaths": 19,
+        "new_deaths": 0,
+        "new_cases": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.26195,
+          45.8288
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "87",
+        "name": "Haute-Vienne",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 72,
+        "total_deaths": 11,
+        "new_deaths": 1,
+        "new_cases": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4497,
+          48.17572
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "88",
+        "name": "Vosges",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 248,
+        "total_deaths": 131,
+        "new_deaths": 3,
+        "new_cases": -5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.569,
+          47.79602
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "89",
+        "name": "Yonne",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 95,
+        "total_deaths": 17,
+        "new_deaths": 0,
+        "new_cases": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.86367,
+          47.63928
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "90",
+        "name": "Territoire-de-Belfort",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 209,
+        "total_deaths": 96,
+        "new_deaths": 2,
+        "new_cases": -7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.43469,
+          48.63059
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "91",
+        "name": "Essonne",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 1125,
+        "total_deaths": 163,
+        "new_deaths": 16,
+        "new_cases": 167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19428,
+          48.88822
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "92",
+        "name": "Hauts-de-Seine",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 1987,
+        "total_deaths": 396,
+        "new_deaths": 19,
+        "new_cases": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4457,
+          48.90479
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "93",
+        "name": "Seine-Saint-Denis",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 1499,
+        "total_deaths": 402,
+        "new_deaths": 34,
+        "new_cases": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.45518,
+          48.77745
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "94",
+        "name": "Val-de-Marne",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 2046,
+        "total_deaths": 453,
+        "new_deaths": 53,
+        "new_cases": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1006,
+          49.05061
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "95",
+        "name": "Val-D'Oise",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 894,
+        "total_deaths": 307,
+        "new_deaths": 25,
+        "new_cases": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.53528,
+          16.24089
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "971",
+        "name": "Guadeloupe",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 33,
+        "total_deaths": 10,
+        "new_deaths": 2,
+        "new_cases": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.06268,
+          14.60623
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "972",
+        "name": "Martinique",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 49,
+        "total_deaths": 4,
+        "new_deaths": 0,
+        "new_cases": -2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.32089,
+          4.94173
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "973",
+        "name": "Guyane",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 9,
+        "total_deaths": 0,
+        "new_deaths": 0,
+        "new_cases": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47104,
+          -20.89266
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "974",
+        "name": "La Réunion",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 39,
+        "total_deaths": 0,
+        "new_deaths": 0,
+        "new_cases": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.14785,
+          -12.82061
+        ]
+      },
+      "properties": {
+        "date": "2020-04-08",
+        "code": "976",
+        "name": "Mayotte",
+        "adminLevel": 2,
+        "iso3": "FRA",
+        "country": "France",
+        "total_cases": 15,
+        "total_deaths": 2,
+        "new_deaths": 0,
+        "new_cases": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.22758,
+          46.2082
+        ]
+      },
+      "properties": {
         "date": "2020-04-07",
         "code": "01",
         "name": "Ain",
