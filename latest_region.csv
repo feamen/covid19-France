@@ -14,8 +14,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-04-13","FRA","Ile-de-France",31,156,13196,3704,48.85717,2.3414
 1,"France","2020-04-13","GLP","Guadeloupe",3,0,41,10,16.24089,-61.53528
 1,"France","2020-04-13","MTQ","Martinique",1,0,39,6,14.60623,-61.06268
-1,"France","2020-04-13","GUF","Guyane",0,0,15,0,4.94173,-52.32089
-1,"France","2020-04-13","FRA","La Réunion",0,0,28,0,-20.89266,55.47104
+1,"France","2020-04-13","FRA","Guyane",0,0,15,0,4.94173,-52.32089
+1,"France","2020-04-13","REU","La Réunion",0,0,28,0,-20.89266,55.47104
 1,"France","2020-04-13","MYT","Mayotte",0,0,22,3,-12.82061,45.14785
 1,"France","2020-04-12","FRA","Auvergne-Rhône-Alpes",40,18,3025,773,45.75919,4.82966
 1,"France","2020-04-12","FRA","Hauts-de-France",40,34,2484,840,50.6282,3.06881
@@ -32,8 +32,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-04-12","FRA","Ile-de-France",140,132,13165,3548,48.85717,2.3414
 1,"France","2020-04-12","GLP","Guadeloupe",1,0,38,10,16.24089,-61.53528
 1,"France","2020-04-12","MTQ","Martinique",-3,1,38,6,14.60623,-61.06268
-1,"France","2020-04-12","GUF","Guyane",6,0,15,0,4.94173,-52.32089
-1,"France","2020-04-12","FRA","La Réunion",-2,0,28,0,-20.89266,55.47104
+1,"France","2020-04-12","FRA","Guyane",6,0,15,0,4.94173,-52.32089
+1,"France","2020-04-12","REU","La Réunion",-2,0,28,0,-20.89266,55.47104
 1,"France","2020-04-12","MYT","Mayotte",2,0,22,3,-12.82061,45.14785
 1,"France","2020-04-11","FRA","Auvergne-Rhône-Alpes",35,34,2985,755,45.75919,4.82966
 1,"France","2020-04-11","FRA","Hauts-de-France",-12,44,2444,806,50.6282,3.06881
@@ -50,8 +50,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-04-11","FRA","Ile-de-France",164,116,13025,3416,48.85717,2.3414
 1,"France","2020-04-11","GLP","Guadeloupe",4,0,37,10,16.24089,-61.53528
 1,"France","2020-04-11","MTQ","Martinique",-3,0,41,5,14.60623,-61.06268
-1,"France","2020-04-11","GUF","Guyane",0,0,9,0,4.94173,-52.32089
-1,"France","2020-04-11","FRA","La Réunion",-12,0,30,0,-20.89266,55.47104
+1,"France","2020-04-11","FRA","Guyane",0,0,9,0,4.94173,-52.32089
+1,"France","2020-04-11","REU","La Réunion",-12,0,30,0,-20.89266,55.47104
 1,"France","2020-04-11","MYT","Mayotte",0,1,20,3,-12.82061,45.14785
 1,"France","2020-04-10","FRA","Auvergne-Rhône-Alpes",-12,36,2950,721,45.75919,4.82966
 1,"France","2020-04-10","FRA","Hauts-de-France",27,47,2456,762,50.6282,3.06881
@@ -68,8 +68,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-04-10","FRA","Ile-de-France",180,260,12861,3300,48.85717,2.3414
 1,"France","2020-04-10","GLP","Guadeloupe",0,0,33,10,16.24089,-61.53528
 1,"France","2020-04-10","MTQ","Martinique",-3,0,44,5,14.60623,-61.06268
-1,"France","2020-04-10","GUF","Guyane",0,0,9,0,4.94173,-52.32089
-1,"France","2020-04-10","FRA","La Réunion",6,0,42,0,-20.89266,55.47104
+1,"France","2020-04-10","FRA","Guyane",0,0,9,0,4.94173,-52.32089
+1,"France","2020-04-10","REU","La Réunion",6,0,42,0,-20.89266,55.47104
 1,"France","2020-04-10","MYT","Mayotte",4,0,20,2,-12.82061,45.14785
 1,"France","2020-04-09","FRA","Auvergne-Rhône-Alpes",54,31,2962,685,45.75919,4.82966
 1,"France","2020-04-09","FRA","Hauts-de-France",63,36,2429,715,50.6282,3.06881
@@ -86,8 +86,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-04-09","FRA","Ile-de-France",202,190,12681,3040,48.85717,2.3414
 1,"France","2020-04-09","GLP","Guadeloupe",0,0,33,10,16.24089,-61.53528
 1,"France","2020-04-09","MTQ","Martinique",-2,1,47,5,14.60623,-61.06268
-1,"France","2020-04-09","GUF","Guyane",0,0,9,0,4.94173,-52.32089
-1,"France","2020-04-09","FRA","La Réunion",-3,0,36,0,-20.89266,55.47104
+1,"France","2020-04-09","FRA","Guyane",0,0,9,0,4.94173,-52.32089
+1,"France","2020-04-09","REU","La Réunion",-3,0,36,0,-20.89266,55.47104
 1,"France","2020-04-09","MYT","Mayotte",1,0,16,2,-12.82061,45.14785
 1,"France","2020-04-08","FRA","Auvergne-Rhône-Alpes",-51,54,2908,654,45.75919,4.82966
 1,"France","2020-04-08","FRA","Hauts-de-France",30,44,2366,679,50.6282,3.06881
@@ -104,8 +104,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-04-08","FRA","Ile-de-France",405,223,12479,2850,48.85717,2.3414
 1,"France","2020-04-08","GLP","Guadeloupe",-1,2,33,10,16.24089,-61.53528
 1,"France","2020-04-08","MTQ","Martinique",-2,0,49,4,14.60623,-61.06268
-1,"France","2020-04-08","GUF","Guyane",2,0,9,0,4.94173,-52.32089
-1,"France","2020-04-08","FRA","La Réunion",2,0,39,0,-20.89266,55.47104
+1,"France","2020-04-08","FRA","Guyane",2,0,9,0,4.94173,-52.32089
+1,"France","2020-04-08","REU","La Réunion",2,0,39,0,-20.89266,55.47104
 1,"France","2020-04-08","MYT","Mayotte",-1,0,15,2,-12.82061,45.14785
 1,"France","2020-04-07","FRA","Auvergne-Rhône-Alpes",-71,45,2959,600,45.75919,4.82966
 1,"France","2020-04-07","FRA","Hauts-de-France",109,58,2336,635,50.6282,3.06881
@@ -122,8 +122,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-04-07","FRA","Ile-de-France",312,272,12074,2627,48.85717,2.3414
 1,"France","2020-04-07","GLP","Guadeloupe",-6,0,34,8,16.24089,-61.53528
 1,"France","2020-04-07","MTQ","Martinique",-4,0,51,4,14.60623,-61.06268
-1,"France","2020-04-07","GUF","Guyane",0,0,7,0,4.94173,-52.32089
-1,"France","2020-04-07","FRA","La Réunion",-8,0,37,0,-20.89266,55.47104
+1,"France","2020-04-07","FRA","Guyane",0,0,7,0,4.94173,-52.32089
+1,"France","2020-04-07","REU","La Réunion",-8,0,37,0,-20.89266,55.47104
 1,"France","2020-04-07","MYT","Mayotte",0,0,16,2,-12.82061,45.14785
 1,"France","2020-04-06","FRA","Auvergne-Rhône-Alpes",47,47,3030,555,45.75919,4.82966
 1,"France","2020-04-06","FRA","Hauts-de-France",108,57,2227,577,50.6282,3.06881
@@ -140,8 +140,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-04-06","FRA","Ile-de-France",288,248,11762,2355,48.85717,2.3414
 1,"France","2020-04-06","GLP","Guadeloupe",4,0,40,8,16.24089,-61.53528
 1,"France","2020-04-06","MTQ","Martinique",1,1,55,4,14.60623,-61.06268
-1,"France","2020-04-06","GUF","Guyane",0,0,7,0,4.94173,-52.32089
-1,"France","2020-04-06","FRA","La Réunion",1,0,45,0,-20.89266,55.47104
+1,"France","2020-04-06","FRA","Guyane",0,0,7,0,4.94173,-52.32089
+1,"France","2020-04-06","REU","La Réunion",1,0,45,0,-20.89266,55.47104
 1,"France","2020-04-06","MYT","Mayotte",-1,0,16,2,-12.82061,45.14785
 1,"France","2020-04-05","FRA","Auvergne-Rhône-Alpes",109,30,2983,508,45.75919,4.82966
 1,"France","2020-04-05","FRA","Hauts-de-France",84,32,2119,520,50.6282,3.06881
@@ -158,8 +158,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-04-05","FRA","Ile-de-France",260,140,11474,2107,48.85717,2.3414
 1,"France","2020-04-05","GLP","Guadeloupe",0,0,36,8,16.24089,-61.53528
 1,"France","2020-04-05","MTQ","Martinique",3,0,54,3,14.60623,-61.06268
-1,"France","2020-04-05","GUF","Guyane",0,0,7,0,4.94173,-52.32089
-1,"France","2020-04-05","FRA","La Réunion",-2,0,44,0,-20.89266,55.47104
+1,"France","2020-04-05","FRA","Guyane",0,0,7,0,4.94173,-52.32089
+1,"France","2020-04-05","REU","La Réunion",-2,0,44,0,-20.89266,55.47104
 1,"France","2020-04-05","MYT","Mayotte",2,0,17,2,-12.82061,45.14785
 1,"France","2020-04-04","FRA","Auvergne-Rhône-Alpes",36,30,2874,478,45.75919,4.82966
 1,"France","2020-04-04","FRA","Hauts-de-France",68,50,2035,488,50.6282,3.06881
@@ -176,8 +176,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-04-04","FRA","Ile-de-France",390,176,11214,1967,48.85717,2.3414
 1,"France","2020-04-04","GLP","Guadeloupe",0,0,36,8,16.24089,-61.53528
 1,"France","2020-04-04","MTQ","Martinique",-2,0,51,3,14.60623,-61.06268
-1,"France","2020-04-04","GUF","Guyane",0,0,7,0,4.94173,-52.32089
-1,"France","2020-04-04","FRA","La Réunion",-7,0,46,0,-20.89266,55.47104
+1,"France","2020-04-04","FRA","Guyane",0,0,7,0,4.94173,-52.32089
+1,"France","2020-04-04","REU","La Réunion",-7,0,46,0,-20.89266,55.47104
 1,"France","2020-04-04","MYT","Mayotte",-3,0,15,2,-12.82061,45.14785
 1,"France","2020-04-03","FRA","Auvergne-Rhône-Alpes",132,44,2838,448,45.75919,4.82966
 1,"France","2020-04-03","FRA","Hauts-de-France",142,68,1967,438,50.6282,3.06881
@@ -194,8 +194,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-04-03","FRA","Ile-de-France",551,220,10824,1791,48.85717,2.3414
 1,"France","2020-04-03","GLP","Guadeloupe",-1,1,36,8,16.24089,-61.53528
 1,"France","2020-04-03","MTQ","Martinique",-4,0,53,3,14.60623,-61.06268
-1,"France","2020-04-03","GUF","Guyane",2,0,7,0,4.94173,-52.32089
-1,"France","2020-04-03","FRA","La Réunion",-1,0,53,0,-20.89266,55.47104
+1,"France","2020-04-03","FRA","Guyane",2,0,7,0,4.94173,-52.32089
+1,"France","2020-04-03","REU","La Réunion",-1,0,53,0,-20.89266,55.47104
 1,"France","2020-04-03","MYT","Mayotte",9,0,18,2,-12.82061,45.14785
 1,"France","2020-04-02","FRA","Auvergne-Rhône-Alpes",71,55,2706,404,45.75919,4.82966
 1,"France","2020-04-02","FRA","Hauts-de-France",210,40,1825,370,50.6282,3.06881
@@ -212,8 +212,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-04-02","FRA","Ile-de-France",664,202,10273,1571,48.85717,2.3414
 1,"France","2020-04-02","GLP","Guadeloupe",2,0,37,7,16.24089,-61.53528
 1,"France","2020-04-02","MTQ","Martinique",-6,0,57,3,14.60623,-61.06268
-1,"France","2020-04-02","GUF","Guyane",0,0,5,0,4.94173,-52.32089
-1,"France","2020-04-02","FRA","La Réunion",1,0,54,0,-20.89266,55.47104
+1,"France","2020-04-02","FRA","Guyane",0,0,5,0,4.94173,-52.32089
+1,"France","2020-04-02","REU","La Réunion",1,0,54,0,-20.89266,55.47104
 1,"France","2020-04-02","MYT","Mayotte",9,2,9,2,-12.82061,45.14785
 1,"France","2020-04-01","FRA","Auvergne-Rhône-Alpes",148,54,2635,349,45.75919,4.82966
 1,"France","2020-04-01","FRA","Hauts-de-France",151,50,1615,330,50.6282,3.06881
@@ -230,8 +230,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-04-01","FRA","Ile-de-France",994,193,9609,1369,48.85717,2.3414
 1,"France","2020-04-01","GLP","Guadeloupe",-2,2,35,7,16.24089,-61.53528
 1,"France","2020-04-01","MTQ","Martinique",-1,0,63,3,14.60623,-61.06268
-1,"France","2020-04-01","GUF","Guyane",5,0,5,0,4.94173,-52.32089
-1,"France","2020-04-01","FRA","La Réunion",-4,0,53,0,-20.89266,55.47104
+1,"France","2020-04-01","FRA","Guyane",5,0,5,0,4.94173,-52.32089
+1,"France","2020-04-01","REU","La Réunion",-4,0,53,0,-20.89266,55.47104
 1,"France","2020-04-01","MYT","Mayotte",0,0,0,0,-12.82061,45.14785
 1,"France","2020-03-31","FRA","Auvergne-Rhône-Alpes",154,31,2487,295,45.75919,4.82966
 1,"France","2020-03-31","FRA","Hauts-de-France",109,38,1464,280,50.6282,3.06881
@@ -248,8 +248,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-03-31","FRA","Ile-de-France",926,222,8615,1176,48.85717,2.3414
 1,"France","2020-03-31","GLP","Guadeloupe",2,1,37,5,16.24089,-61.53528
 1,"France","2020-03-31","MTQ","Martinique",7,0,64,3,14.60623,-61.06268
-1,"France","2020-03-31","GUF","Guyane",0,0,0,0,4.94173,-52.32089
-1,"France","2020-03-31","FRA","La Réunion",1,0,57,0,-20.89266,55.47104
+1,"France","2020-03-31","FRA","Guyane",0,0,0,0,4.94173,-52.32089
+1,"France","2020-03-31","REU","La Réunion",1,0,57,0,-20.89266,55.47104
 1,"France","2020-03-31","MYT","Mayotte",0,0,0,0,-12.82061,45.14785
 1,"France","2020-03-30","FRA","Auvergne-Rhône-Alpes",218,37,2333,264,45.75919,4.82966
 1,"France","2020-03-30","FRA","Hauts-de-France",118,31,1355,242,50.6282,3.06881
@@ -266,8 +266,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-03-30","FRA","Ile-de-France",597,147,7689,954,48.85717,2.3414
 1,"France","2020-03-30","GLP","Guadeloupe",-9,2,35,4,16.24089,-61.53528
 1,"France","2020-03-30","MTQ","Martinique",0,0,57,3,14.60623,-61.06268
-1,"France","2020-03-30","GUF","Guyane",0,0,0,0,4.94173,-52.32089
-1,"France","2020-03-30","FRA","La Réunion",3,0,56,0,-20.89266,55.47104
+1,"France","2020-03-30","FRA","Guyane",0,0,0,0,4.94173,-52.32089
+1,"France","2020-03-30","REU","La Réunion",3,0,56,0,-20.89266,55.47104
 1,"France","2020-03-30","MYT","Mayotte",0,0,0,0,-12.82061,45.14785
 1,"France","2020-03-29","FRA","Auvergne-Rhône-Alpes",211,32,2115,227,45.75919,4.82966
 1,"France","2020-03-29","FRA","Hauts-de-France",105,15,1237,211,50.6282,3.06881
@@ -284,8 +284,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-03-29","FRA","Ile-de-France",569,119,7092,807,48.85717,2.3414
 1,"France","2020-03-29","GLP","Guadeloupe",0,1,44,2,16.24089,-61.53528
 1,"France","2020-03-29","MTQ","Martinique",4,2,57,3,14.60623,-61.06268
-1,"France","2020-03-29","GUF","Guyane",0,0,0,0,4.94173,-52.32089
-1,"France","2020-03-29","FRA","La Réunion",38,0,53,0,-20.89266,55.47104
+1,"France","2020-03-29","FRA","Guyane",0,0,0,0,4.94173,-52.32089
+1,"France","2020-03-29","REU","La Réunion",38,0,53,0,-20.89266,55.47104
 1,"France","2020-03-29","MYT","Mayotte",0,0,0,0,-12.82061,45.14785
 1,"France","2020-03-28","FRA","Auvergne-Rhône-Alpes",266,30,1904,195,45.75919,4.82966
 1,"France","2020-03-28","FRA","Hauts-de-France",139,27,1132,196,50.6282,3.06881
@@ -302,8 +302,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-03-28","FRA","Ile-de-France",730,110,6523,688,48.85717,2.3414
 1,"France","2020-03-28","GLP","Guadeloupe",15,0,44,1,16.24089,-61.53528
 1,"France","2020-03-28","MTQ","Martinique",9,0,53,1,14.60623,-61.06268
-1,"France","2020-03-28","GUF","Guyane",0,0,0,0,4.94173,-52.32089
-1,"France","2020-03-28","FRA","La Réunion",12,0,15,0,-20.89266,55.47104
+1,"France","2020-03-28","FRA","Guyane",0,0,0,0,4.94173,-52.32089
+1,"France","2020-03-28","REU","La Réunion",12,0,15,0,-20.89266,55.47104
 1,"France","2020-03-28","MYT","Mayotte",0,0,0,0,-12.82061,45.14785
 1,"France","2020-03-27","FRA","Auvergne-Rhône-Alpes",216,31,1638,165,45.75919,4.82966
 1,"France","2020-03-27","FRA","Hauts-de-France",74,19,993,169,50.6282,3.06881
@@ -320,8 +320,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-03-27","FRA","Ile-de-France",661,118,5793,578,48.85717,2.3414
 1,"France","2020-03-27","GLP","Guadeloupe",8,1,29,1,16.24089,-61.53528
 1,"France","2020-03-27","MTQ","Martinique",15,0,44,1,14.60623,-61.06268
-1,"France","2020-03-27","GUF","Guyane",0,0,0,0,4.94173,-52.32089
-1,"France","2020-03-27","FRA","La Réunion",0,0,3,0,-20.89266,55.47104
+1,"France","2020-03-27","FRA","Guyane",0,0,0,0,4.94173,-52.32089
+1,"France","2020-03-27","REU","La Réunion",0,0,3,0,-20.89266,55.47104
 1,"France","2020-03-27","MYT","Mayotte",0,0,0,0,-12.82061,45.14785
 1,"France","2020-03-26","FRA","Auvergne-Rhône-Alpes",192,27,1422,134,45.75919,4.82966
 1,"France","2020-03-26","FRA","Hauts-de-France",90,28,919,150,50.6282,3.06881
@@ -338,8 +338,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-03-26","FRA","Ile-de-France",743,103,5132,460,48.85717,2.3414
 1,"France","2020-03-26","GLP","Guadeloupe",15,0,21,0,16.24089,-61.53528
 1,"France","2020-03-26","MTQ","Martinique",7,0,29,1,14.60623,-61.06268
-1,"France","2020-03-26","GUF","Guyane",0,0,0,0,4.94173,-52.32089
-1,"France","2020-03-26","FRA","La Réunion",0,0,3,0,-20.89266,55.47104
+1,"France","2020-03-26","FRA","Guyane",0,0,0,0,4.94173,-52.32089
+1,"France","2020-03-26","REU","La Réunion",0,0,3,0,-20.89266,55.47104
 1,"France","2020-03-26","MYT","Mayotte",0,0,0,0,-12.82061,45.14785
 1,"France","2020-03-25","FRA","Auvergne-Rhône-Alpes",249,21,1230,107,45.75919,4.82966
 1,"France","2020-03-25","FRA","Hauts-de-France",118,13,829,122,50.6282,3.06881
@@ -356,8 +356,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-03-25","FRA","Ile-de-France",706,95,4389,357,48.85717,2.3414
 1,"France","2020-03-25","GLP","Guadeloupe",0,0,6,0,16.24089,-61.53528
 1,"France","2020-03-25","MTQ","Martinique",9,0,22,1,14.60623,-61.06268
-1,"France","2020-03-25","GUF","Guyane",0,0,0,0,4.94173,-52.32089
-1,"France","2020-03-25","FRA","La Réunion",0,0,3,0,-20.89266,55.47104
+1,"France","2020-03-25","FRA","Guyane",0,0,0,0,4.94173,-52.32089
+1,"France","2020-03-25","REU","La Réunion",0,0,3,0,-20.89266,55.47104
 1,"France","2020-03-25","MYT","Mayotte",0,0,0,0,-12.82061,45.14785
 1,"France","2020-03-24","FRA","Auvergne-Rhône-Alpes",128,16,981,86,45.75919,4.82966
 1,"France","2020-03-24","FRA","Hauts-de-France",99,23,711,109,50.6282,3.06881
@@ -374,8 +374,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-03-24","FRA","Ile-de-France",541,69,3683,262,48.85717,2.3414
 1,"France","2020-03-24","GLP","Guadeloupe",0,0,6,0,16.24089,-61.53528
 1,"France","2020-03-24","MTQ","Martinique",-6,0,13,1,14.60623,-61.06268
-1,"France","2020-03-24","GUF","Guyane",0,0,0,0,4.94173,-52.32089
-1,"France","2020-03-24","FRA","La Réunion",1,0,3,0,-20.89266,55.47104
+1,"France","2020-03-24","FRA","Guyane",0,0,0,0,4.94173,-52.32089
+1,"France","2020-03-24","REU","La Réunion",1,0,3,0,-20.89266,55.47104
 1,"France","2020-03-24","MYT","Mayotte",0,0,0,0,-12.82061,45.14785
 1,"France","2020-03-23","FRA","Auvergne-Rhône-Alpes",212,23,853,70,45.75919,4.82966
 1,"France","2020-03-23","FRA","Hauts-de-France",127,19,612,86,50.6282,3.06881
@@ -392,8 +392,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-03-23","FRA","Ile-de-France",657,53,3142,193,48.85717,2.3414
 1,"France","2020-03-23","GLP","Guadeloupe",0,0,6,0,16.24089,-61.53528
 1,"France","2020-03-23","MTQ","Martinique",0,0,19,1,14.60623,-61.06268
-1,"France","2020-03-23","GUF","Guyane",0,0,0,0,4.94173,-52.32089
-1,"France","2020-03-23","FRA","La Réunion",0,0,2,0,-20.89266,55.47104
+1,"France","2020-03-23","FRA","Guyane",0,0,0,0,4.94173,-52.32089
+1,"France","2020-03-23","REU","La Réunion",0,0,2,0,-20.89266,55.47104
 1,"France","2020-03-23","MYT","Mayotte",0,0,0,0,-12.82061,45.14785
 1,"France","2020-03-22","FRA","Auvergne-Rhône-Alpes",116,9,641,47,45.75919,4.82966
 1,"France","2020-03-22","FRA","Hauts-de-France",61,11,485,67,50.6282,3.06881
@@ -410,8 +410,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-03-22","FRA","Ile-de-France",398,18,2485,140,48.85717,2.3414
 1,"France","2020-03-22","GLP","Guadeloupe",6,0,6,0,16.24089,-61.53528
 1,"France","2020-03-22","MTQ","Martinique",0,0,19,1,14.60623,-61.06268
-1,"France","2020-03-22","GUF","Guyane",0,0,0,0,4.94173,-52.32089
-1,"France","2020-03-22","FRA","La Réunion",0,0,2,0,-20.89266,55.47104
+1,"France","2020-03-22","FRA","Guyane",0,0,0,0,4.94173,-52.32089
+1,"France","2020-03-22","REU","La Réunion",0,0,2,0,-20.89266,55.47104
 1,"France","2020-03-22","MYT","Mayotte",0,0,0,0,-12.82061,45.14785
 1,"France","2020-03-21","FRA","Auvergne-Rhône-Alpes",62,5,525,38,45.75919,4.82966
 1,"France","2020-03-21","FRA","Hauts-de-France",-8,5,424,56,50.6282,3.06881
@@ -428,8 +428,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-03-21","FRA","Ile-de-France",302,23,2087,122,48.85717,2.3414
 1,"France","2020-03-21","GLP","Guadeloupe",0,0,0,0,16.24089,-61.53528
 1,"France","2020-03-21","MTQ","Martinique",0,0,19,1,14.60623,-61.06268
-1,"France","2020-03-21","GUF","Guyane",0,0,0,0,4.94173,-52.32089
-1,"France","2020-03-21","FRA","La Réunion",0,0,2,0,-20.89266,55.47104
+1,"France","2020-03-21","FRA","Guyane",0,0,0,0,4.94173,-52.32089
+1,"France","2020-03-21","REU","La Réunion",0,0,2,0,-20.89266,55.47104
 1,"France","2020-03-21","MYT","Mayotte",0,0,0,0,-12.82061,45.14785
 1,"France","2020-03-20","FRA","Auvergne-Rhône-Alpes",78,11,463,33,45.75919,4.82966
 1,"France","2020-03-20","FRA","Hauts-de-France",38,11,432,51,50.6282,3.06881
@@ -446,8 +446,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-03-20","FRA","Ile-de-France",429,43,1785,99,48.85717,2.3414
 1,"France","2020-03-20","GLP","Guadeloupe",0,0,0,0,16.24089,-61.53528
 1,"France","2020-03-20","MTQ","Martinique",2,0,19,1,14.60623,-61.06268
-1,"France","2020-03-20","GUF","Guyane",0,0,0,0,4.94173,-52.32089
-1,"France","2020-03-20","FRA","La Réunion",0,0,2,0,-20.89266,55.47104
+1,"France","2020-03-20","FRA","Guyane",0,0,0,0,4.94173,-52.32089
+1,"France","2020-03-20","REU","La Réunion",0,0,2,0,-20.89266,55.47104
 1,"France","2020-03-20","MYT","Mayotte",0,0,0,0,-12.82061,45.14785
 1,"France","2020-03-19","FRA","Auvergne-Rhône-Alpes",213,15,385,22,45.75919,4.82966
 1,"France","2020-03-19","FRA","Hauts-de-France",81,19,394,40,50.6282,3.06881
@@ -464,8 +464,8 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-03-19","FRA","Ile-de-France",399,20,1356,56,48.85717,2.3414
 1,"France","2020-03-19","GLP","Guadeloupe",0,0,0,0,16.24089,-61.53528
 1,"France","2020-03-19","MTQ","Martinique",1,0,17,1,14.60623,-61.06268
-1,"France","2020-03-19","GUF","Guyane",0,0,0,0,4.94173,-52.32089
-1,"France","2020-03-19","FRA","La Réunion",0,0,2,0,-20.89266,55.47104
+1,"France","2020-03-19","FRA","Guyane",0,0,0,0,4.94173,-52.32089
+1,"France","2020-03-19","REU","La Réunion",0,0,2,0,-20.89266,55.47104
 1,"France","2020-03-19","MYT","Mayotte",0,0,0,0,-12.82061,45.14785
 1,"France","2020-03-18","FRA","Auvergne-Rhône-Alpes",172,7,172,7,45.75919,4.82966
 1,"France","2020-03-18","FRA","Hauts-de-France",313,21,313,21,50.6282,3.06881
@@ -482,6 +482,6 @@ adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,
 1,"France","2020-03-18","FRA","Ile-de-France",957,36,957,36,48.85717,2.3414
 1,"France","2020-03-18","GLP","Guadeloupe",0,0,0,0,16.24089,-61.53528
 1,"France","2020-03-18","MTQ","Martinique",16,1,16,1,14.60623,-61.06268
-1,"France","2020-03-18","GUF","Guyane",0,0,0,0,4.94173,-52.32089
-1,"France","2020-03-18","FRA","La Réunion",2,0,2,0,-20.89266,55.47104
+1,"France","2020-03-18","FRA","Guyane",0,0,0,0,4.94173,-52.32089
+1,"France","2020-03-18","REU","La Réunion",2,0,2,0,-20.89266,55.47104
 1,"France","2020-03-18","MYT","Mayotte",0,0,0,0,-12.82061,45.14785
