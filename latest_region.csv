@@ -1,4 +1,22 @@
 adminLevel,country,date,iso3,name,new_cases,new_deaths,total_cases,total_deaths,lat,lon
+1,"France","2020-04-14","FRA","Auvergne-Rhône-Alpes",-11,42,3044,836,45.75919,4.82966
+1,"France","2020-04-14","FRA","Hauts-de-France",27,47,2552,920,50.6282,3.06881
+1,"France","2020-04-14","FRA","Provence-Alpes-Côte d'Azur",35,26,1894,374,43.29337,5.37132
+1,"France","2020-04-14","FRA","Grand Est",65,61,4993,2166,48.58504,7.73642
+1,"France","2020-04-14","FRA","Occitanie",-12,18,962,266,43.60579,1.44863
+1,"France","2020-04-14","FRA","Normandie",-8,19,705,230,49.44014,1.0894
+1,"France","2020-04-14","FRA","Nouvelle-Aquitaine",9,13,866,207,44.8367,-0.58107
+1,"France","2020-04-14","FRA","Centre-Val de Loire",13,13,996,227,47.90143,1.90498
+1,"France","2020-04-14","FRA","Bourgogne-Franche-Comté",52,39,1361,551,47.32698,5.04299
+1,"France","2020-04-14","FRA","Bretagne",4,13,514,149,48.10804,-1.68449
+1,"France","2020-04-14","FRA","Corse",-1,0,74,38,41.91719,8.73444
+1,"France","2020-04-14","FRA","Pays de la Loire",-3,17,820,209,47.21811,-1.55306
+1,"France","2020-04-14","FRA","Ile-de-France",13,233,13209,3937,48.85717,2.3414
+1,"France","2020-04-14","GLP","Guadeloupe",0,0,41,10,16.24089,-61.53528
+1,"France","2020-04-14","MTQ","Martinique",0,0,39,6,14.60623,-61.06268
+1,"France","2020-04-14","GUF","Guyane",3,0,18,0,4.94173,-52.32089
+1,"France","2020-04-14","REU","La Réunion",0,0,28,0,-20.89266,55.47104
+1,"France","2020-04-14","MYT","Mayotte",-7,0,15,3,-12.82061,45.14785
 1,"France","2020-04-13","FRA","Auvergne-Rhône-Alpes",30,21,3055,794,45.75919,4.82966
 1,"France","2020-04-13","FRA","Hauts-de-France",41,33,2525,873,50.6282,3.06881
 1,"France","2020-04-13","FRA","Provence-Alpes-Côte d'Azur",29,20,1859,348,43.29337,5.37132
