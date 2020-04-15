@@ -11,6 +11,384 @@
         ]
       },
       "properties": {
+        "date": "2020-04-15",
+        "name": "Auvergne-Rhône-Alpes",
+        "adminLevel": 1,
+        "country": "France",
+        "iso3": "FRA",
+        "new_cases": -40,
+        "new_deaths": 49,
+        "total_cases": 3004,
+        "total_deaths": 885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.06881,
+          50.6282
+        ]
+      },
+      "properties": {
+        "date": "2020-04-15",
+        "name": "Hauts-de-France",
+        "adminLevel": 1,
+        "country": "France",
+        "iso3": "FRA",
+        "new_cases": -16,
+        "new_deaths": 55,
+        "total_cases": 2536,
+        "total_deaths": 975
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37132,
+          43.29337
+        ]
+      },
+      "properties": {
+        "date": "2020-04-15",
+        "name": "Provence-Alpes-Côte d'Azur",
+        "adminLevel": 1,
+        "country": "France",
+        "iso3": "FRA",
+        "new_cases": 15,
+        "new_deaths": 19,
+        "total_cases": 1909,
+        "total_deaths": 393
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.73642,
+          48.58504
+        ]
+      },
+      "properties": {
+        "date": "2020-04-15",
+        "name": "Grand Est",
+        "adminLevel": 1,
+        "country": "France",
+        "iso3": "FRA",
+        "new_cases": -116,
+        "new_deaths": 83,
+        "total_cases": 4877,
+        "total_deaths": 2249
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.44863,
+          43.60579
+        ]
+      },
+      "properties": {
+        "date": "2020-04-15",
+        "name": "Occitanie",
+        "adminLevel": 1,
+        "country": "France",
+        "iso3": "FRA",
+        "new_cases": -49,
+        "new_deaths": 12,
+        "total_cases": 913,
+        "total_deaths": 278
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0894,
+          49.44014
+        ]
+      },
+      "properties": {
+        "date": "2020-04-15",
+        "name": "Normandie",
+        "adminLevel": 1,
+        "country": "France",
+        "iso3": "FRA",
+        "new_cases": -19,
+        "new_deaths": 12,
+        "total_cases": 686,
+        "total_deaths": 242
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.58107,
+          44.8367
+        ]
+      },
+      "properties": {
+        "date": "2020-04-15",
+        "name": "Nouvelle-Aquitaine",
+        "adminLevel": 1,
+        "country": "France",
+        "iso3": "FRA",
+        "new_cases": -38,
+        "new_deaths": 7,
+        "total_cases": 828,
+        "total_deaths": 214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.90498,
+          47.90143
+        ]
+      },
+      "properties": {
+        "date": "2020-04-15",
+        "name": "Centre-Val de Loire",
+        "adminLevel": 1,
+        "country": "France",
+        "iso3": "FRA",
+        "new_cases": 0,
+        "new_deaths": 18,
+        "total_cases": 996,
+        "total_deaths": 245
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.04299,
+          47.32698
+        ]
+      },
+      "properties": {
+        "date": "2020-04-15",
+        "name": "Bourgogne-Franche-Comté",
+        "adminLevel": 1,
+        "country": "France",
+        "iso3": "FRA",
+        "new_cases": -20,
+        "new_deaths": 30,
+        "total_cases": 1341,
+        "total_deaths": 581
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.68449,
+          48.10804
+        ]
+      },
+      "properties": {
+        "date": "2020-04-15",
+        "name": "Bretagne",
+        "adminLevel": 1,
+        "country": "France",
+        "iso3": "FRA",
+        "new_cases": -10,
+        "new_deaths": 10,
+        "total_cases": 504,
+        "total_deaths": 159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.73444,
+          41.91719
+        ]
+      },
+      "properties": {
+        "date": "2020-04-15",
+        "name": "Corse",
+        "adminLevel": 1,
+        "country": "France",
+        "iso3": "FRA",
+        "new_cases": 9,
+        "new_deaths": 3,
+        "total_cases": 83,
+        "total_deaths": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.55306,
+          47.21811
+        ]
+      },
+      "properties": {
+        "date": "2020-04-15",
+        "name": "Pays de la Loire",
+        "adminLevel": 1,
+        "country": "France",
+        "iso3": "FRA",
+        "new_cases": -26,
+        "new_deaths": 13,
+        "total_cases": 794,
+        "total_deaths": 222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3414,
+          48.85717
+        ]
+      },
+      "properties": {
+        "date": "2020-04-15",
+        "name": "Ile-de-France",
+        "adminLevel": 1,
+        "country": "France",
+        "iso3": "FRA",
+        "new_cases": -191,
+        "new_deaths": 203,
+        "total_cases": 13018,
+        "total_deaths": 4140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.53528,
+          16.24089
+        ]
+      },
+      "properties": {
+        "date": "2020-04-15",
+        "name": "Guadeloupe",
+        "adminLevel": 1,
+        "country": "France",
+        "iso3": "GLP",
+        "new_cases": -6,
+        "new_deaths": 0,
+        "total_cases": 35,
+        "total_deaths": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.06268,
+          14.60623
+        ]
+      },
+      "properties": {
+        "date": "2020-04-15",
+        "name": "Martinique",
+        "adminLevel": 1,
+        "country": "France",
+        "iso3": "MTQ",
+        "new_cases": -1,
+        "new_deaths": 0,
+        "total_cases": 38,
+        "total_deaths": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.32089,
+          4.94173
+        ]
+      },
+      "properties": {
+        "date": "2020-04-15",
+        "name": "Guyane",
+        "adminLevel": 1,
+        "country": "France",
+        "iso3": "GUF",
+        "new_cases": 1,
+        "new_deaths": 0,
+        "total_cases": 19,
+        "total_deaths": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47104,
+          -20.89266
+        ]
+      },
+      "properties": {
+        "date": "2020-04-15",
+        "name": "La Réunion",
+        "adminLevel": 1,
+        "country": "France",
+        "iso3": "REU",
+        "new_cases": -4,
+        "new_deaths": 0,
+        "total_cases": 24,
+        "total_deaths": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.14785,
+          -12.82061
+        ]
+      },
+      "properties": {
+        "date": "2020-04-15",
+        "name": "Mayotte",
+        "adminLevel": 1,
+        "country": "France",
+        "iso3": "MYT",
+        "new_cases": 3,
+        "new_deaths": 0,
+        "total_cases": 18,
+        "total_deaths": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82966,
+          45.75919
+        ]
+      },
+      "properties": {
         "date": "2020-04-14",
         "name": "Auvergne-Rhône-Alpes",
         "adminLevel": 1,
